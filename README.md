@@ -22,8 +22,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More
 
-- [Supabase Documentation](https://supabase.com/docs) - learn how to get up and running with Supabase through tutorials, APIs and platform resources.
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Supabase Documentation](https://supabase.com/docs)
+- [Next.js Documentation](https://nextjs.org/docs)
 - [React Documentation](https://react.dev/learn)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs/installation)
 - [shadcn/ui Documentation](https://ui.shadcn.com/docs)
